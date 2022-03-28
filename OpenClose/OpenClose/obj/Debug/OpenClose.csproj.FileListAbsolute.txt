@@ -1,0 +1,5 @@
+/Users/nikitamakeev/Desktop/TMPSlab_4/OpenClose/OpenClose/obj/Debug/OpenClose.csprojAssemblyReference.cache
+/Users/nikitamakeev/Desktop/TMPSlab_4/OpenClose/OpenClose/bin/Debug/OpenClose.exe
+/Users/nikitamakeev/Desktop/TMPSlab_4/OpenClose/OpenClose/bin/Debug/OpenClose.pdb
+/Users/nikitamakeev/Desktop/TMPSlab_4/OpenClose/OpenClose/obj/Debug/OpenClose.exe
+/Users/nikitamakeev/Desktop/TMPSlab_4/OpenClose/OpenClose/obj/Debug/OpenClose.pdb

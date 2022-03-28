@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{0B94760D-F356-4A42-8426-68A40C0583DC}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Liskov/Orange.cs">
+    <Files>
+      <File FileName="Liskov/Program.cs" Line="16" Column="6" />
+      <File FileName="Liskov/Fruit.cs" Line="7" Column="1" />
+      <File FileName="Liskov/Apple.cs" Line="17" Column="22" />
+      <File FileName="Liskov/Orange.cs" Line="23" Column="22" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Liskov" expanded="True">
+            <Node name="Liskov" expanded="True">
+              <Node name="Orange.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Liskov PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

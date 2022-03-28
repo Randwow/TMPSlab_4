@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{5BB0388E-47F8-4F1E-9F90-9E8EB5E3FE24}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="DependencyInversion/Program.cs">
+    <Files>
+      <File FileName="DependencyInversion/Program.cs" Line="12" Column="79" />
+      <File FileName="DependencyInversion/CalculateSalary.cs" Line="8" Column="2" />
+      <File FileName="DependencyInversion/ISalaryCalculator.cs" Line="6" Column="38" />
+      <File FileName="DependencyInversion/EmployeeDetails.cs" Line="13" Column="33" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="DependencyInversion" expanded="True">
+            <Node name="DependencyInversion" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.DependencyInversion PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

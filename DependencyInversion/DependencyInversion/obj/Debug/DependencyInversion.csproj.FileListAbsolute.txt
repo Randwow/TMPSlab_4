@@ -1,0 +1,5 @@
+/Users/nikitamakeev/Desktop/TMPSlab_4/DependencyInversion/DependencyInversion/obj/Debug/DependencyInversion.csprojAssemblyReference.cache
+/Users/nikitamakeev/Desktop/TMPSlab_4/DependencyInversion/DependencyInversion/bin/Debug/DependencyInversion.exe
+/Users/nikitamakeev/Desktop/TMPSlab_4/DependencyInversion/DependencyInversion/bin/Debug/DependencyInversion.pdb
+/Users/nikitamakeev/Desktop/TMPSlab_4/DependencyInversion/DependencyInversion/obj/Debug/DependencyInversion.exe
+/Users/nikitamakeev/Desktop/TMPSlab_4/DependencyInversion/DependencyInversion/obj/Debug/DependencyInversion.pdb

@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{5A9790F8-AB3F-45FD-A8DC-47C3AC1DFC44}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="InterfaceSegregation/Program.cs">
+    <Files>
+      <File FileName="InterfaceSegregation/Program.cs" Line="15" Column="25" />
+      <File FileName="InterfaceSegregation/IMove.cs" Line="8" Column="2" />
+      <File FileName="InterfaceSegregation/ISwimming.cs" Line="7" Column="6" />
+      <File FileName="InterfaceSegregation/IFlying.cs" Line="7" Column="6" />
+      <File FileName="InterfaceSegregation/Car.cs" Line="7" Column="61" />
+      <File FileName="InterfaceSegregation/Plane.cs" Line="12" Column="6" />
+      <File FileName="InterfaceSegregation/Ship.cs" Line="7" Column="63" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="InterfaceSegregation" expanded="True">
+            <Node name="InterfaceSegregation" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
+  <MonoDevelop.Ide.ItemProperties.InterfaceSegregation PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
