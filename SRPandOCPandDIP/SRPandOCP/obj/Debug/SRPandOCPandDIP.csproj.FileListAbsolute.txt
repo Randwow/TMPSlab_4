@@ -1,0 +1,9 @@
+/Users/nikitamakeev/Projects/SRPandOCP/SRPandOCP/bin/Debug/SRPandOCP.exe
+/Users/nikitamakeev/Projects/SRPandOCP/SRPandOCP/bin/Debug/SRPandOCP.pdb
+/Users/nikitamakeev/Projects/SRPandOCP/SRPandOCP/obj/Debug/SRPandOCP.exe
+/Users/nikitamakeev/Projects/SRPandOCP/SRPandOCP/obj/Debug/SRPandOCP.pdb
+/Users/nikitamakeev/Desktop/TMPSlab_4/SRPandOCPandDIP/SRPandOCP/bin/Debug/SRPandOCP.exe
+/Users/nikitamakeev/Desktop/TMPSlab_4/SRPandOCPandDIP/SRPandOCP/bin/Debug/SRPandOCP.pdb
+/Users/nikitamakeev/Desktop/TMPSlab_4/SRPandOCPandDIP/SRPandOCP/obj/Debug/SRPandOCPandDIP.csprojAssemblyReference.cache
+/Users/nikitamakeev/Desktop/TMPSlab_4/SRPandOCPandDIP/SRPandOCP/obj/Debug/SRPandOCP.exe
+/Users/nikitamakeev/Desktop/TMPSlab_4/SRPandOCPandDIP/SRPandOCP/obj/Debug/SRPandOCP.pdb

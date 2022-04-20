@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{01999CE1-F52E-4CB7-9E8D-CA86CB508D8A}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="SRPandOCP/Rectangle.cs">
+    <Files>
+      <File FileName="SRPandOCP/Program.cs" Line="15" Column="69" />
+      <File FileName="SRPandOCP/Rectangle.cs" Line="19" Column="10" />
+      <File FileName="SRPandOCP/Circle.cs" Line="15" Column="40" />
+      <File FileName="SRPandOCP/Shape.cs" Line="8" Column="40" />
+      <File FileName="SRPandOCP/AreaCalculator.cs" Line="1" Column="1" />
+      <File FileName="SRPandOCP/PerimetrAclculator.cs" Line="11" Column="40" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="SRPandOCP" expanded="True">
+            <Node name="SRPandOCPandDIP" expanded="True">
+              <Node name="Rectangle.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.SRPandOCPandDIP PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -1,0 +1,5 @@
+/Users/nikitamakeev/Projects/SRPandOCP/SRPandOCP/bin/Debug/SRPandOCP.exe
+/Users/nikitamakeev/Projects/SRPandOCP/SRPandOCP/bin/Debug/SRPandOCP.pdb
+/Users/nikitamakeev/Projects/SRPandOCP/SRPandOCP/obj/Debug/SRPandOCP.csprojAssemblyReference.cache
+/Users/nikitamakeev/Projects/SRPandOCP/SRPandOCP/obj/Debug/SRPandOCP.exe
+/Users/nikitamakeev/Projects/SRPandOCP/SRPandOCP/obj/Debug/SRPandOCP.pdb
